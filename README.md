@@ -1,123 +1,123 @@
 # TheHive - Hyerakon - Server Translations
 
-## Descrizione
+## Description
 
-**TheHive - Hyerakon - Server Translations** è una **mod di test** per DayZ, sviluppata con l’obiettivo di tradurre e validare **tutti i contenuti custom** utilizzati dal server **"The Hive - Livonia"**.
+**TheHive - Hyerakon - Server Translations** is a **test mod** for DayZ, developed with the purpose of translating and validating **all custom content** used by the **"The Hive - Livonia"** server.
 
-La mod non è destinata all’uso finale da parte dei giocatori, ma funge da ambiente di verifica e collaudo delle traduzioni prima della loro integrazione definitiva.
+This mod is not intended for final player use but serves as a verification and testing environment for translations before their official integration.
 
 ---
 
-## Scopo della Mod
+## Mod Purpose
 
-Lo scopo principale di questa mod è:
+The main objectives of this mod are:
 
-* Centralizzare tutte le **traduzioni dei contenuti custom** del server
-* Verificare il corretto funzionamento di:
+* To centralize all **custom content translations** for the server  
+* To verify the correct functioning of:
 
-  * Stringtable
-  * Descrizioni oggetti
-  * Messaggi di sistema
-  * Interfacce custom
-* Individuare errori di localizzazione, formattazione o caricamento
+  * Stringtable  
+  * Item descriptions  
+  * System messages  
+  * Custom interfaces  
+* To identify localization, formatting, or loading errors
 
-Una volta confermata la **stabilità e correttezza delle traduzioni**, il contenuto di questa mod verrà **repackato** all’interno della mod principale:
+Once **translation stability and correctness** are confirmed, the content of this mod will be **repacked** into the main mod:
 
 > **TheHive - Hyerakon - Server Utilities**
 
 ---
 
-## Stato del Progetto
+## Project Status
 
-⚠️ **MOD DI TEST – NON DEFINITIVA**
+⚠️ **TEST MOD – NOT FINAL**
 
-* In sviluppo attivo
-* Soggetta a modifiche frequenti
-* Non garantita la retrocompatibilità
-* Non supportata come mod standalone per ambienti di produzione
-
----
-
-## Utilizzo Previsto
-
-Questa mod è pensata esclusivamente per:
-
-* Ambienti di **test interni**
-* Server di sviluppo / staging
-* Verifica delle traduzioni prima del merge finale
-
-❌ **Non è consigliato** l’utilizzo su server pubblici o ambienti live.
+* Actively under development  
+* Subject to frequent changes  
+* No guarantee of backward compatibility  
+* Not supported as a standalone mod for production environments
 
 ---
 
-## Compatibilità
+## Intended Use
 
-* **DayZ** (PC)
-* Server: **The Hive - Livonia**
-* Dipendenze richieste:
+This mod is exclusively intended for:
 
-  * Expansion-Bundle
-  * Expansion-Animation
-  * Expansion-Licensed
+* **Internal testing** environments  
+* Development / staging servers  
+* Translation verification before final merge
 
-⚠️ Le mod **Expansion** devono essere caricate correttamente sul server e lato client affinché le traduzioni funzionino come previsto.
+❌ **Not recommended** for use on public servers or live environments.
 
 ---
 
-## Installazione
+## Compatibility
 
-> Solo per ambienti di test
+* **DayZ** (PC)  
+* Server: **The Hive - Livonia**  
+* Required dependencies:
 
-1. Inserire la mod nella cartella delle mod del server
-2. Caricarla **prima** o **insieme** alle mod che forniscono i contenuti custom
-3. Avviare il server e verificare:
+  * Expansion-Bundle  
+  * Expansion-Animation  
+  * Expansion-Licensed  
 
-   * Caricamento corretto delle stringhe
-   * Assenza di errori RPT legati a stringtable
+⚠️ The **Expansion** mods must be properly loaded on both server and client for translations to work as expected.
 
 ---
 
-## Repack e Integrazione Finale
+## Installation
 
-Al termine della fase di test, **questa mod verrà dismessa** e il suo contenuto verrà:
+> For testing environments only
 
-* Integrato
-* Rifattorizzato
-* Versionato
+1. Place the mod in the server’s mod folder  
+2. Load it **before** or **alongside** the mods that provide custom content  
+3. Start the server and verify:
 
-all’interno di:
+   * Correct string loading  
+   * Absence of RPT errors related to stringtable  
+
+---
+
+## Repack and Final Integration
+
+At the end of the testing phase, **this mod will be retired** and its content will be:
+
+* Integrated  
+* Refactored  
+* Versioned  
+
+within:
 
 **TheHive - Hyerakon - Server Utilities**
 
 ---
 
-## Supporto
+## Support
 
-Questa mod non fornisce supporto pubblico.
+This mod does not provide public support.
 
-Per segnalazioni o verifiche:
+For reports or verification:
 
-* Utilizzare i canali interni di sviluppo **The Hive**
-* Fare riferimento ai log server e file RPT
-
----
-
-## Licenza
-
-**Contenuto proprietario**
-
-La pubblicazione di questa mod è effettuata **al solo scopo di esempio e caso di studio** per il modding di DayZ.
-
-❌ **Repack non permesso**, se non **esclusivamente** all’interno dell’ecosistema **The Hive**.
-
-Qualsiasi utilizzo, modifica o redistribuzione al di fuori di quanto sopra indicato non è autorizzato.
+* Use **The Hive** internal development channels  
+* Refer to server logs and RPT files
 
 ---
 
-## Contatti
+## License
 
-* **Sito Web**: [https://www.thehivemind.it/](https://www.thehivemind.it/)
-* **Sito Web DayZ**: [https://dayz.thehivemind.it/](https://dayz.thehivemind.it/)
+**Proprietary Content**
+
+This mod is published **solely as an example and case study** for DayZ modding.
+
+❌ **Repack is not allowed**, except **exclusively** within the **The Hive** ecosystem.
+
+Any use, modification, or redistribution outside the above is unauthorized.
+
+---
+
+## Contacts
+
+* **Website**: [https://www.thehivemind.it/](https://www.thehivemind.it/)  
+* **DayZ Website**: [https://dayz.thehivemind.it/](https://dayz.thehivemind.it/)  
 * **Discord**: [https://discord.gg/YNqKNhaUrQ](https://discord.gg/YNqKNhaUrQ)
 
 ---
