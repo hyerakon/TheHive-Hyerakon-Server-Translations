@@ -6,7 +6,6 @@
 
 This mod is not intended for final player use but serves as a verification and testing environment for translations before their official integration.
 
----
 
 ## Mod Purpose
 
@@ -25,7 +24,6 @@ Once **translation stability and correctness** are confirmed, the content of thi
 
 > **TheHive - Hyerakon - Server Utilities**
 
----
 
 ## Project Status
 
@@ -36,7 +34,6 @@ Once **translation stability and correctness** are confirmed, the content of thi
 * No guarantee of backward compatibility  
 * Not supported as a standalone mod for production environments
 
----
 
 ## Intended Use
 
@@ -48,7 +45,6 @@ This mod is exclusively intended for:
 
 ❌ **Not recommended** for use on public servers or live environments.
 
----
 
 ## Compatibility
 
@@ -62,7 +58,6 @@ This mod is exclusively intended for:
 
 ⚠️ The **Expansion** mods must be properly loaded on both server and client for translations to work as expected.
 
----
 
 ## Installation
 
@@ -75,7 +70,6 @@ This mod is exclusively intended for:
    * Correct string loading  
    * Absence of RPT errors related to stringtable  
 
----
 
 ## Repack and Final Integration
 
@@ -89,7 +83,6 @@ within:
 
 **TheHive - Hyerakon - Server Utilities**
 
----
 
 ## Support
 
@@ -100,7 +93,6 @@ For reports or verification:
 * Use **The Hive** internal development channels  
 * Refer to server logs and RPT files
 
----
 
 ## License
 
@@ -112,7 +104,6 @@ This mod is published **solely as an example and case study** for DayZ modding.
 
 Any use, modification, or redistribution outside the above is unauthorized.
 
----
 
 ## Contacts
 
@@ -120,6 +111,5 @@ Any use, modification, or redistribution outside the above is unauthorized.
 * **DayZ Website**: [https://dayz.thehivemind.it/](https://dayz.thehivemind.it/)  
 * **Discord**: [https://discord.gg/YNqKNhaUrQ](https://discord.gg/YNqKNhaUrQ)
 
----
 
 **The Hive – Hyerakon Project**
